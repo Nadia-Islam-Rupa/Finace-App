@@ -1,7 +1,6 @@
 # finance_app
 
 A cross-platform **Flutter** finance application to help users track spending, manage categories, and view basic financial summaries (income vs. expense).  
-> Update the “Features” section to match what your app currently supports.
 
 ---
 
